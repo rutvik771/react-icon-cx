@@ -1,6 +1,6 @@
 {
   "name": "rutvik-react-icon",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "module": "dist/index.cjs.js",
@@ -13,8 +13,8 @@
     "svgr": "svgr -d src assets",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["react-icon" , "icon" , "svg"],
+  "author": "Rutvik Patel",
   "license": "ISC",
   "dependencies": {
     "@babel/runtime": "^7.18.9",
@@ -22,6 +22,11 @@
     "rollup": "^2.78.1",
     "svgo": "^2.8.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rutvik771/rutvik-react-icon"
+  },
+  "homepage": "https://github.com/rutvik771/rutvik-react-icon",
   "devDependencies": {
     "@babel/plugin-transform-runtime": "^7.18.10",
     "@babel/preset-env": "^7.18.10",

@@ -1,1 +1,9 @@
-export { default as AppGridMenuSvgrepoCom } from "./AppGridMenuSvgrepoCom";
+export { default as DjangoLogoIcon } from "./DjangoLogoIcon";
+export { default as FollowUsOnLinkedinIcon } from "./FollowUsOnLinkedinIcon";
+export { default as GoogleNewsIcon } from "./GoogleNewsIcon";
+export { default as HashtagBubbleOutlineIcon } from "./HashtagBubbleOutlineIcon";
+export { default as IgInstagramIcon } from "./IgInstagramIcon";
+export { default as MicrosoftAccessIcon } from "./MicrosoftAccessIcon";
+export { default as MobileDialNumbersIcon } from "./MobileDialNumbersIcon";
+export { default as ShareGroupMemberIcon } from "./ShareGroupMemberIcon";
+export { default as YoutubeLogoIcon } from "./YoutubeLogoIcon";
