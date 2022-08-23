@@ -1,6 +1,6 @@
 {
   "name": "rutvik-react-icon",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "index.js",
   "module": "dist/index.cjs.js",
@@ -15,7 +15,7 @@
   },
   "keywords": ["react-icon" , "icon" , "svg"],
   "author": "Rutvik Patel",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "@babel/runtime": "^7.18.9",
     "rimraf": "^3.0.2",
