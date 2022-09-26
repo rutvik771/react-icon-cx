@@ -24,9 +24,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/rutvik771/rutvik-react-icon"
+    "url": "https://github.com/rutvik771/react-icon-cx"
   },
-  "homepage": "https://github.com/rutvik771/rutvik-react-icon",
+  "homepage": "https://github.com/rutvik771/react-icon-cx",
   "devDependencies": {
     "@babel/plugin-transform-runtime": "^7.18.10",
     "@babel/preset-env": "^7.18.10",
