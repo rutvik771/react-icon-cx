@@ -1,6 +1,6 @@
 {
   "name": "react-icon-cx",
-  "version": "2.0.0",
+  "version": "2.0.3",
   "description": "",
   "main": "index.js",
   "module": "dist/index.cjs.js",
@@ -26,7 +26,7 @@
     "type": "git",
     "url": "https://github.com/rutvik771/react-icon-cx"
   },
-  "homepage": "https://github.com/rutvik771/react-icon-cx",
+  "homepage": "https://react-icon-cx.netlify.app/",
   "devDependencies": {
     "@babel/plugin-transform-runtime": "^7.18.10",
     "@babel/preset-env": "^7.18.10",
